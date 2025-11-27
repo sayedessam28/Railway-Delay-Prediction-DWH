@@ -1,6 +1,6 @@
 # End-to-End Railway Delay Prediction & Data Warehousing Project
 
-![System Architecture](project architecture.jpeg)
+![System Architecture](project%20architecture.jpeg)
 
 ## Project Overview
 
