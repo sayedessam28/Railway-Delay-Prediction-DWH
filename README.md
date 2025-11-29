@@ -1,6 +1,6 @@
 # End-to-End Railway Delay Prediction & Data Warehousing Project
 
-![System Architecture](project%20architecture.jpeg)
+![System Architecture](project%20pipline.png)
 
 ## Project Overview
 
